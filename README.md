@@ -1,4 +1,4 @@
-#Apache Kafka Installation and Usage Guide
+# Apache Kafka Installation and Usage Guide
 
 ## Overview
 
