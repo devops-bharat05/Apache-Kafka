@@ -143,9 +143,3 @@ sh /kafka/kafka_2.13-3.8.0/bin/kafka-console-consumer.sh --bootstrap-server loca
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
 - [ZooKeeper Documentation](https://zookeeper.apache.org/doc/)
 
----
-
-This README provides a high-level overview of setting up Apache Kafka with ZooKeeper and performing basic Kafka operations.
-```
-
-This `README.md` file is designed to provide users with clear instructions on how to install and use Apache Kafka. It includes steps for installation, basic commands, and references to the official documentation for further details. Save this content to a file named `README.md` and commit it to your Git repository.
