@@ -1,7 +1,4 @@
-Here is a `README.md` file for Apache Kafka:
-
-```markdown
-# Apache Kafka Installation and Usage Guide
+#Apache Kafka Installation and Usage Guide
 
 ## Overview
 
