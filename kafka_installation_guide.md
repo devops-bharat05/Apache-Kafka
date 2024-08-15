@@ -1,5 +1,3 @@
-Here is a summary of the contents from the provided document, formatted into a Markdown file (`kafka_installation_guide.md`):
-
 ```markdown
 # Kafka & Zookeeper Installation Guide
 
